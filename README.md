@@ -1,32 +1,6 @@
 # LED
 Uma proposta de kit educativo para o ensino de computação para crianças e adolescentes
 
-## Começando a Utilizar
-
-Essas instruções te darão uma cópia do projeto funcionando na sua máquina local para fins de desenvolvimento e testes.
-
-### Pré-requisitos
-
-Requisitos para o programa e outras ferramentas para build e testes 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
-
-### Instalação
-
-A step by step series of examples that tell you how to get a development
-environment running
-
-Say what the step will be
-
-    Give the example
-
-And repeat
-
-    until finished
-
-End with an example of getting some data out of the system or using it
-for a little demo
-
 ## Desenvolvimento
 
 O aplicativo foi desenvolvido em um notebook com as seguintes especificações:
