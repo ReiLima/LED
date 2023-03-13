@@ -3,13 +3,11 @@ Uma proposta de kit educativo para o ensino de computação para crianças e ado
 
 ## Começando a Utilizar
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+Essas instruções te darão uma cópia do projeto funcionando na sua máquina local para fins de desenvolvimento e testes.
 
 ### Pré-requisitos
 
-Requirements for the software and other tools to build, test and push 
+Requisitos para o programa e outras ferramentas para build e testes 
 - [Example 1](https://www.example.com)
 - [Example 2](https://www.example.com)
 
